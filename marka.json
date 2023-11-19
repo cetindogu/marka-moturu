@@ -1,0 +1,16 @@
+[
+  {
+    "marka_id": 1,
+    "marka_adi": "PIRELLI",
+    "kategori_id": 1,
+    "aciklama": "%90 İtalyan, %10 Alman markası",
+    "kurulus_id": 1
+  },
+  {
+    "marka_id": 2,
+    "marka_adi": "Falım",
+    "kategori_id": 2,
+    "aciklama": "Sakız markası",
+    "kurulus_id": 2
+  }
+]

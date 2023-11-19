@@ -1,0 +1,21 @@
+[
+    {
+      "marka_sahiplik_id": 1,
+      "marka_id": 1,
+      "kurulus_id": 1,
+      "ortaklik_orani": 90
+    },
+    {
+      "marka_sahiplik_id": 2,
+      "marka_id": 1,
+      "kurulus_id": 1,
+      "ortaklik_orani": 10
+    },
+    {
+      "marka_sahiplik_id": 3,
+      "marka_id": 2,
+      "kurulus_id": 2,
+      "ortaklik_orani": 100
+    }
+  ]
+  
