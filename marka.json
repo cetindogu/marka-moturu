@@ -1,9 +1,9 @@
 [
   {
     "marka_id": 1,
-    "marka_adi": "PIRELLI",
+    "marka_adi": "Pirelli",
     "kategori_id": 1,
-    "aciklama": "%90 İtalyan, %10 Alman markası",
+    "aciklama": "",
     "kurulus_id": 1
   },
   {
@@ -12,5 +12,19 @@
     "kategori_id": 2,
     "aciklama": "Sakız markası",
     "kurulus_id": 2
+  },
+  {
+    "marka_id": 3,
+    "marka_adi": "Sleepy",
+    "kategori_id": 3,
+    "aciklama": "Sleepy bebek bezi",
+    "kurulus_id": 3
+  },
+  {
+    "marka_id": 4,
+    "marka_adi": "Soffio",
+    "kategori_id": 3,
+    "aciklama": "Soffio bebek bezi",
+    "kurulus_id": 3
   }
 ]

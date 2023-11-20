@@ -6,5 +6,9 @@
   {
     "kategori_id": 2,
     "kategori_adi": "Sakız"
+  },
+  {
+    "kategori_id": 3,
+    "kategori_adi": "Bebek Bezi"
   }
 ]
