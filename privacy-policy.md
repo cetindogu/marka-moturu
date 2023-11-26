@@ -1,34 +1,35 @@
-# Marka Moturu Reklam Politikası
+# Marka Moturu Uygulaması Gizlilik ve Reklam Politikası
 
-Bu Reklam Politikası, Marka Moturu mobil uygulamasında sunulan reklamlarla ilgili olarak geçerlidir. Bu politika, reklamların nasıl sunulduğunu, kullanıcı verilerinin reklam hizmetleriyle nasıl paylaşıldığını ve reklamların ne tür içeriklere izin verildiğini açıklar.
+Bu bölüm, Marka Moturu Uygulaması'nın kullanıcı verilerini nasıl koruduğunu ve reklam politikasını nasıl uyguladığını açıklar.
 
-## Reklam Sunumu
+## Veri Güvenliği
 
-Marka Moturu, kullanıcılara daha iyi bir deneyim sunmak için reklam hizmetleri kullanabilir. Bu reklamlar, kullanıcı tercihleri, konum ve diğer benzer bilgiler temel alınarak kişiselleştirilebilir.
+Marka Moturu Uygulaması, kullanıcılarının kişisel verilerini korumak için gerekli teknik ve organizasyonel önlemleri alır. Bu önlemler, veri kaybını, kötüye kullanımı ve izinsiz erişimi önlemeyi amaçlar.
 
-## Kullanıcı Verileri ve Gizlilik
+Kullanıcı bilgileri şu şekilde korunur:
 
-Reklam hizmetleriyle paylaşılan kullanıcı verileri, gizlilik politikamızda belirtildiği şekilde korunur. Kullanıcıların kişisel bilgileri, izinleri olmadan üçüncü taraflarla paylaşılmaz veya satılmaz.
+- **Şifreleme:** Hassas veriler, iletim sırasında ve depolama esnasında endüstri standardı şifreleme protokolleri kullanılarak korunur.
+- **Erişim Kontrolleri:** Sadece yetkili personel, kullanıcı verilerine erişebilir ve bu erişim yetkilendirmelerle sınırlıdır.
+- **Güvenlik Duvarları:** Ağ trafiği, güvenlik duvarları ve güvenlik önlemleri ile izlenir ve korunur.
 
-## Reklam İçeriği
+## Aile Dostu Uygulama Politikalarına Uyum
 
-Marka Moturu, aşağıdaki içerikleri içeren reklamlara izin vermez:
+Marka Moturu Uygulaması, aile dostu uygulama politikalarına tam uyum sağlamayı taahhüt eder. Bu politika çerçevesinde:
 
-- Irkçı, cinsiyetçi veya ayrımcı içerik.
-- Hileli veya yanıltıcı reklamlar.
-- Tehdit edici, saldırgan veya şiddet içeren içerik.
-- Yasalara aykırı içerik.
+- Uygulama içi satın alma işlemleri ve reklamlar, genel ahlak kurallarına ve aile değerlerine uygun olmalıdır.
+- Çocuklar için güvenli bir çevre sağlamak adına uygun önlemler alınmalıdır.
+- Kullanıcı verileri gizliliği ön planda tutulmalı ve aile dostu uygulama politikalarına uygun olarak korunmalıdır.
 
-Reklam içerikleri, kullanıcı deneyimini bozan veya güvenliği tehlikeye atan içerikleri içeremez.
+## Reklam Politikası
 
-## Çerezler ve İzleme
+Marka Moturu Uygulaması, reklam hizmetlerini kullanabilir. Reklam politikası şu prensiplere dayanır:
 
-Reklam hizmetlerinin etkinliğini artırmak için çerezler ve benzeri teknolojiler kullanılabilir. Bu bilgiler, kullanıcı deneyimini iyileştirmek ve reklam hizmetlerini optimize etmek amacıyla kullanılır.
+- Reklamlar, kullanıcı deneyimini olumsuz etkilemeyecek ve güvenliği tehlikeye atmayacak şekilde sunulmalıdır.
+- Reklamlar, genel ahlak kurallarına ve yasalara uygun olmalıdır.
+- Kullanıcı verileri, reklam hizmetleriyle paylaşılmadan önce gizlilik politikamıza uygun olarak korunmalıdır.
 
-## Reklam Politikası Güncellemeleri
-
-Marka Moturu Reklam Politikası, zaman zaman güncellenebilir. Bu değişiklikler, yeni bir sürüm yayımlandığında geçerli olacaktır. Kullanıcılar, bu sayfayı düzenli olarak kontrol ederek güncellemelerden haberdar olmalıdır.
+Marka Moturu Uygulaması, kullanıcıların reklamlar aracılığıyla güvenli ve olumlu bir deneyim yaşamalarını sağlamak için çaba sarf eder.
 
 ## İletişim
 
-Reklam Politikası ile ilgili herhangi bir soru veya endişeniz varsa, lütfen bize şu adresten ulaşın: [cetindogu@gmail.com](mailto:cetindogu@gmail.com).
+Gizlilik ve Reklam Politikası ile ilgili herhangi bir soru veya endişeniz varsa, lütfen bize şu adresten ulaşın: [cetindogu@gmail.com](mailto:cetindogu@gmail.com).
