@@ -1,38 +1,34 @@
-# Marka Moturu Gizlilik Politikası
+# Marka Moturu Reklam Politikası
 
-Bu Gizlilik Politikası, Marka Moturu mobil uygulamasının kullanıcılarına sağladığı hizmetlerle ilgili olarak kişisel bilgilerin nasıl toplandığını, kullanıldığını, korunduğunu ve paylaşıldığını açıklar.
+Bu Reklam Politikası, Marka Moturu mobil uygulamasında sunulan reklamlarla ilgili olarak geçerlidir. Bu politika, reklamların nasıl sunulduğunu, kullanıcı verilerinin reklam hizmetleriyle nasıl paylaşıldığını ve reklamların ne tür içeriklere izin verildiğini açıklar.
 
-## Toplanan Bilgiler
+## Reklam Sunumu
 
-Marka Moturu, aşağıdaki bilgileri toplayabilir:
+Marka Moturu, kullanıcılara daha iyi bir deneyim sunmak için reklam hizmetleri kullanabilir. Bu reklamlar, kullanıcı tercihleri, konum ve diğer benzer bilgiler temel alınarak kişiselleştirilebilir.
 
-- Kullanıcı adı, e-posta adresi ve diğer kişisel bilgiler.
-- Cihaz bilgileri: Marka Moturu'nu kullanırken kullanılan cihazın modeli, işletim sistemi ve benzeri bilgiler.
-- Kullanım bilgileri: Uygulamanın nasıl kullanıldığına dair bilgiler, örneğin hangi özelliklerin sıkça kullanıldığı.
-- Konum bilgisi: Kullanıcı tarafından sağlanan konum bilgisi (isteğe bağlı olarak).
+## Kullanıcı Verileri ve Gizlilik
 
-## Kullanımı ve Saklanması
+Reklam hizmetleriyle paylaşılan kullanıcı verileri, gizlilik politikamızda belirtildiği şekilde korunur. Kullanıcıların kişisel bilgileri, izinleri olmadan üçüncü taraflarla paylaşılmaz veya satılmaz.
 
-Marka Moturu, topladığı bilgileri aşağıdaki amaçlarla kullanabilir:
+## Reklam İçeriği
 
-- Kullanıcıya özel içerik sunma.
-- Hizmet kalitesini artırma ve geliştirme.
-- İstatistiksel analizler yapma.
+Marka Moturu, aşağıdaki içerikleri içeren reklamlara izin vermez:
 
-Marka Moturu, topladığı kişisel bilgileri asla izinsiz olarak üçüncü taraflarla paylaşmaz veya satmaz. Ancak, yasal yükümlülükler kapsamında resmi makamlarla paylaşma hakkını saklı tutar.
+- Irkçı, cinsiyetçi veya ayrımcı içerik.
+- Hileli veya yanıltıcı reklamlar.
+- Tehdit edici, saldırgan veya şiddet içeren içerik.
+- Yasalara aykırı içerik.
 
-## Çerezler
+Reklam içerikleri, kullanıcı deneyimini bozan veya güvenliği tehlikeye atan içerikleri içeremez.
 
-Marka Moturu, kullanıcı deneyimini iyileştirmek ve hizmetleri daha etkin bir şekilde sunmak için çerezleri kullanabilir. Kullanıcılar, tarayıcı ayarları üzerinden çerez kullanımını kabul edebilir veya reddedebilir.
+## Çerezler ve İzleme
 
-## Güvenlik
+Reklam hizmetlerinin etkinliğini artırmak için çerezler ve benzeri teknolojiler kullanılabilir. Bu bilgiler, kullanıcı deneyimini iyileştirmek ve reklam hizmetlerini optimize etmek amacıyla kullanılır.
 
-Marka Moturu, kullanıcı bilgilerini korumak için endüstri standardı güvenlik önlemlerini kullanır. Ancak, internet üzerinden iletişimde hiçbir yöntem tamamen güvenli değildir, bu nedenle Marka Moturu güvenlik ihlallerinden kaynaklanan herhangi bir sorumluluğu kabul etmez.
+## Reklam Politikası Güncellemeleri
 
-## Değişiklikler
-
-Marka Moturu Gizlilik Politikası zaman zaman güncellenebilir. Bu değişiklikler, yeni bir sürüm yayımlandığında geçerli olacaktır. Kullanıcılar, bu sayfayı düzenli olarak kontrol ederek güncellemelerden haberdar olmalıdır.
+Marka Moturu Reklam Politikası, zaman zaman güncellenebilir. Bu değişiklikler, yeni bir sürüm yayımlandığında geçerli olacaktır. Kullanıcılar, bu sayfayı düzenli olarak kontrol ederek güncellemelerden haberdar olmalıdır.
 
 ## İletişim
 
-Gizlilik Politikası ile ilgili herhangi bir soru veya endişeniz varsa, lütfen bize şu adresten ulaşın: [cetindogu@gmail.com](mailto:cetindogu@gmail.com).
+Reklam Politikası ile ilgili herhangi bir soru veya endişeniz varsa, lütfen bize şu adresten ulaşın: [cetindogu@gmail.com](mailto:cetindogu@gmail.com).
